@@ -1,0 +1,10 @@
+###################
+## Unreal engine ##
+###################
+Binaries/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.sln
+*v12.suo
